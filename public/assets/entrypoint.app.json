@@ -1,0 +1,5 @@
+[
+    "\/assets\/controllers\/stimulus.js",
+    "\/assets\/styles\/app.css",
+    "@hotwired\/stimulus"
+]

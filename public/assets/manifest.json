@@ -1,0 +1,15 @@
+{
+    "@symfony\/stimulus-bundle\/controllers.js": "\/assets\/@symfony\/stimulus-bundle\/controllers-87c27e4915494ff929af4ba09b3c82d9.js",
+    "@symfony\/stimulus-bundle\/loader.js": "\/assets\/@symfony\/stimulus-bundle\/loader-870999a02e9fc147c034d522826ea70d.js",
+    "@symfony\/ux-live-component\/live.min.css": "\/assets\/@symfony\/ux-live-component\/live.min-64907418e2da12691d8fa3c70a509e08.css",
+    "@symfony\/ux-live-component\/live_controller.js": "\/assets\/@symfony\/ux-live-component\/live_controller-f6cfb7a8aceaeb38ccfc9760313dab91.js",
+    "app.js": "\/assets\/app-284af30094c910b669454d9b51a779b0.js",
+    "bootstrap.js": "\/assets\/bootstrap-ac840ffa4cb37e3a4f091f5ccab1eb89.js",
+    "controllers\/form.js": "\/assets\/controllers\/form-89b31a23c86c9e19cb4a789eb8ff7626.js",
+    "controllers\/form2.js": "\/assets\/controllers\/form2-a278d004181d274aada53bdaf7e083bd.js",
+    "controllers\/hello_controller.js": "\/assets\/controllers\/hello_controller-327d72ca5e8beb697c2fd4f6fd83c609.js",
+    "controllers\/stimulus.js": "\/assets\/controllers\/stimulus-aff4dff332a616f3bc24c70d9db8730d.js",
+    "styles\/app.css": "\/assets\/styles\/app-dc4473f1436ee211124e256e4ec0ab37.css",
+    "vendor\/@hotwired\/stimulus\/stimulus.index.js": "\/assets\/vendor\/@hotwired\/stimulus\/stimulus.index-b5b1d00e42695b8959b4a1e94e3bc92a.js",
+    "vendor\/@hotwired\/turbo\/turbo.index.js": "\/assets\/vendor\/@hotwired\/turbo\/turbo.index-810f44ef1a202a441e4866b7a4c72d11.js"
+}
